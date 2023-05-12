@@ -1,0 +1,51 @@
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        
+        html,
+        body {
+            height: 100%;
+        }
+        
+        body {
+            background-color: antiquewhite;
+        }
+        
+        .form1 {
+            background-color: aqua;
+            display: block;
+            margin: center auto;
+            height: 100%;
+            padding: 10px auto;
+            margin: 20px auto;
+        }
+        
+        .navbar1 {
+            padding: 10px;
+            margin: 10px;
+            height: 100%;
+            margin-bottom: 10px;
+        }
+        
+        .navbar>input {
+            padding: 10px;
+            align-items: center;
+            width: 10%;
+        }
+        
+        #btn1 {
+            background-color: rgb(43, 226, 125);
+        }
+        
+        #btn2 {
+            background-color: rgb(162, 226, 43);
+        }
+        
+        #btn3 {
+            background-color: rgb(137, 43, 226);
+        }
+        
+        #btn4 {
+            background-color: rgb(226, 43, 43);
+        }
